@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|c:\\users\\eunab\\source\\repos\\graphql.api\\graphql.api\\mutations\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|solutionrelative:graphql.api\\mutations\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|c:\\users\\eunab\\source\\repos\\graphql.api\\graphql.api\\models\\transfers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|solutionrelative:graphql.api\\models\\transfers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|c:\\users\\eunab\\source\\repos\\graphql.api\\graphql.api\\input\\clientinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|solutionrelative:graphql.api\\input\\clientinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|c:\\users\\eunab\\source\\repos\\graphql.api\\graphql.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|solutionrelative:graphql.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|c:\\users\\eunab\\source\\repos\\graphql.api\\graphql.api\\query\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|solutionrelative:graphql.api\\query\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|c:\\users\\eunab\\source\\repos\\graphql.api\\graphql.api\\graphql.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|solutionrelative:graphql.api\\graphql.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|c:\\users\\eunab\\source\\repos\\graphql.api\\graphql.api\\input\\transferinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|solutionrelative:graphql.api\\input\\transferinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|c:\\users\\eunab\\source\\repos\\graphql.api\\graphql.api\\models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|solutionrelative:graphql.api\\models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|c:\\users\\eunab\\source\\repos\\graphql.api\\graphql.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|solutionrelative:graphql.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|c:\\users\\eunab\\source\\repos\\graphql.api\\graphql.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE48B974-DAF4-4A66-8D1F-2727E1DC4F22}|GraphQL.api\\GraphQL.api.csproj|solutionrelative:graphql.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mutation.cs",
+              "DocumentMoniker": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Mutations\\Mutation.cs",
+              "RelativeDocumentMoniker": "GraphQL.api\\Mutations\\Mutation.cs",
+              "ToolTip": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Mutations\\Mutation.cs",
+              "RelativeToolTip": "GraphQL.api\\Mutations\\Mutation.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:58:53.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GraphQL.api.csproj",
+              "DocumentMoniker": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\GraphQL.api.csproj",
+              "RelativeDocumentMoniker": "GraphQL.api\\GraphQL.api.csproj",
+              "ToolTip": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\GraphQL.api.csproj",
+              "RelativeToolTip": "GraphQL.api\\GraphQL.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T21:15:47.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Program.cs",
+              "RelativeDocumentMoniker": "GraphQL.api\\Program.cs",
+              "ToolTip": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Program.cs",
+              "RelativeToolTip": "GraphQL.api\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:25:54.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientInput.cs",
+              "DocumentMoniker": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Input\\ClientInput.cs",
+              "RelativeDocumentMoniker": "GraphQL.api\\Input\\ClientInput.cs",
+              "ToolTip": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Input\\ClientInput.cs",
+              "RelativeToolTip": "GraphQL.api\\Input\\ClientInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:36:33.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Query\\Query.cs",
+              "RelativeDocumentMoniker": "GraphQL.api\\Query\\Query.cs",
+              "ToolTip": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Query\\Query.cs",
+              "RelativeToolTip": "GraphQL.api\\Query\\Query.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:05:20.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "transfers.cs",
+              "DocumentMoniker": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Models\\transfers.cs",
+              "RelativeDocumentMoniker": "GraphQL.api\\Models\\transfers.cs",
+              "ToolTip": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Models\\transfers.cs",
+              "RelativeToolTip": "GraphQL.api\\Models\\transfers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:33:53.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransferInput.cs",
+              "DocumentMoniker": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Input\\TransferInput.cs",
+              "RelativeDocumentMoniker": "GraphQL.api\\Input\\TransferInput.cs",
+              "ToolTip": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Input\\TransferInput.cs",
+              "RelativeToolTip": "GraphQL.api\\Input\\TransferInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:31:24.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clients.cs",
+              "DocumentMoniker": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Models\\clients.cs",
+              "RelativeDocumentMoniker": "GraphQL.api\\Models\\clients.cs",
+              "ToolTip": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Models\\clients.cs",
+              "RelativeToolTip": "GraphQL.api\\Models\\clients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:42:01.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\appsettings.json",
+              "RelativeDocumentMoniker": "GraphQL.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\appsettings.json",
+              "RelativeToolTip": "GraphQL.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T21:17:02.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GraphQL.api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\eunab\\source\\repos\\GraphQL.api\\GraphQL.api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GraphQL.api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T21:17:06.087Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
